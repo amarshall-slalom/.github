@@ -1,0 +1,4 @@
+{
+  "dotfiles.repository": "amarshall-slalom/dotfiles",
+  "dotfiles.installCommand": "install.sh"
+}
